@@ -46,6 +46,7 @@ func main() {
                 "bobabotui.lol",
                 "seobeton.team",
                 "aHR0cHM6Ly95b2licmUuY29tL3NoZWxsL2FkbWluLnR4dA",
+                "CallMeBatosay",
                 "judi",
                 "jackpot",
                 "pragmatic",
