@@ -54,6 +54,7 @@ func main() {
                 "gacor",
                 "togel",
                 "maxwin",
+                "maxbet",
                 "scatter",
                 "nextcloud",
                 "owncloud",
